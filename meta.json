@@ -1,0 +1,23 @@
+{
+  "repo": "shaperbox-3-full",
+  "product": "ShaperBox 3 Full",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "audio-plugins",
+  "topics": [
+    "shaperbox-3",
+    "time-repeat-desk",
+    "volume-pump-windows",
+    "shaperbox-2026",
+    "how-to-install-shaperbox",
+    "shaperbox-desktop-package",
+    "filter-crush-suite",
+    "swing-draw-tools",
+    "mix-motion-plugin",
+    "shaperbox-pro-edition"
+  ],
+  "site": "toolix.me"
+}
